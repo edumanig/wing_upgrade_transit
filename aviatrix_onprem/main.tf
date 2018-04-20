@@ -182,6 +182,7 @@ resource "aviatrix_site2cloud" "onprem-vgw" {
     remote_subnet = "${var.remote_subnet}",
     pre_shared_key = "${aws_vpn_connection.onprem.tunnel1_preshared_key}"
 }
+
     #depends_on = ["aviatrix_gateway.OnPrem-GW","aws_vpc.OnPrem-VPC"]
 ## END -------------------------------
 
