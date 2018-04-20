@@ -1,0 +1,2 @@
+variable "custom_version" {}
+
