@@ -35,6 +35,7 @@ spoke_cidr_prefix_us_west_2 = "10.48"
 # us-east-1
 spoke_count_us_east_1 = 0
 spoke_cidr_prefix_us_east_1 = "10.45"
+
 # us-west-1
 spoke_count_us_west_1 = 0
 spoke_cidr_prefix_us_west_1 = "10.47"
