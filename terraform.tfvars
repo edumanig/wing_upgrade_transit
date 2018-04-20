@@ -25,11 +25,11 @@ s2c_remote_subnet = "10.224.0.0/24,10.45.0.0/24,10.46.0.0/24,10.47.0.0/24,10.48.
 spoke_gateway_size = "t2.micro"
 
 # us-east-2
-spoke_count_us_east_2 = 1
+spoke_count_us_east_2 = 5
 spoke_cidr_prefix_us_east_2 = "10.46"
 
 # us-west-2
-spoke_count_us_west_2 = 1
+spoke_count_us_west_2 = 5
 spoke_cidr_prefix_us_west_2 = "10.48"
 
 # us-east-1
